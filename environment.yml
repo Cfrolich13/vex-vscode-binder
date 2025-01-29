@@ -6,4 +6,3 @@ dependencies:
   - python-build
   - jupyter-server-proxy
   - code-server >=3.2
-  - pros-cli
