@@ -1,0 +1,4 @@
+build-essential
+clang
+gcc-arm-none-eabi
+binutils-arm-none-eabi
