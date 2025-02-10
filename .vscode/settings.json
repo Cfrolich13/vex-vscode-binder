@@ -8,5 +8,12 @@
         "**/.npm": true,
         "**/.yarn": true,
         "**/jupyter_vscode_proxy.egg-info": true
-    }
+    },
+    
+    "workbench.colorTheme": "Default Dark Modern",
+    "files.autoSaveDelay": 2500,
+    "update.mode": "start",
+    "telemetry.telemetryLevel": "off",
+    "security.workspace.trust.startupPrompt": "always",
+    "git.autofetch": true
 }

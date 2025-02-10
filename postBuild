@@ -1,6 +1,9 @@
 #!/bin/bash
 
-code-server --install-extension ms-python.python
+code-server --install-extension sigbots.pros
+code-server --install-extension llvm-vs-code-extensions.vscode-clangd
+code-server --install-extension genuitecllc.codetogether
+code-server --install-extension Codeium.codeium
 
 # Install the VS code proxy
 pip install -e.
